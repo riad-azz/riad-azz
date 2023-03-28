@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @riad-azz
-- 👀 I’m interested in : Learning new stuff everyday.
-- 🌱 I’m currently learning : New stuff :).
+- 👀 I’m interested in : Learning new stuff everyday
+- 🌱 I’m currently learning : New stuff :)
