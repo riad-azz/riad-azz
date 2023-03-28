@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @riad-azz
-- 👀 I’m interested in : Learning new stuff.
-- 🌱 I’m currently learning : New stuff.
-- 💞️ I’m looking to collaborate on : Any project that i could contribute to.
+- 👀 I’m interested in : Learning new stuff everyday.
+- 🌱 I’m currently learning : New stuff :).
