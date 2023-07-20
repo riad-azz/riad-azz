@@ -35,10 +35,3 @@ I enjoy solving complex problems and working with different technologies.
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-##  📈 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=riad-azz&show_icons=true&theme=gotham" alt="Riad Azz" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riad-azz&hide=TeX&layout=compact)
-
