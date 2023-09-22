@@ -2,6 +2,7 @@
 
 I enjoy solving complex problems and working with different technologies.
 
-- 🌱 I’m currently learning new stuff every day.
+- 🌱 I enjoy learning new stuff.
+- 📚 I’m currently learning new stuff.
 - 💬 Ask me anything about my projects/repositories.
-- 📫 Contact me on @Discord: (`_riadh_`)
+- 📫 Contact me on twitter [@riad-azz](https://twitter.com/riadazz).
